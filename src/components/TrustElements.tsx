@@ -146,25 +146,25 @@ const FOUNDERS = [
   {
     initial: "H",
     name: "Hudson Paul",
-    role: "Founder & CEO",
+    role: "Founder",
     linkedin: "https://www.linkedin.com/in/hudsonpaul1/",
   },
   {
     initial: "L",
     name: "Luke Anglin",
-    role: "Co-founder",
+    role: "Founder",
     linkedin: "https://www.linkedin.com/in/lukeanglin/",
   },
   {
     initial: "C",
     name: "Christian Kumar",
-    role: "Co-founder",
+    role: "Founder & CEO",
     linkedin: "https://www.linkedin.com/in/christiankumar/",
   },
   {
     initial: "J",
     name: "John Swaroop",
-    role: "Co-founder",
+    role: "Founder",
     linkedin: "https://www.linkedin.com/in/john-swaroop-4389961b7/",
   },
 ];
