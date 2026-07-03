@@ -146,7 +146,7 @@ const FOUNDERS = [
   {
     initial: "H",
     name: "Hudson Paul",
-    role: "Chief Operations Officer",
+    role: "Chief Operating Officer",
     linkedin: "https://www.linkedin.com/in/hudsonpaul1/",
   },
   {
