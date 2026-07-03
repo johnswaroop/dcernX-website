@@ -144,28 +144,28 @@ export const TestimonialStrip = ({
 
 const FOUNDERS = [
   {
-    initial: "H",
-    name: "Hudson Paul",
-    role: "Chief Operating Officer",
-    linkedin: "https://www.linkedin.com/in/hudsonpaul1/",
-  },
-  {
-    initial: "L",
-    name: "Luke Anglin",
-    role: "Chief Revenue Officer",
-    linkedin: "https://www.linkedin.com/in/lukeanglin/",
-  },
-  {
     initial: "C",
     name: "Christian Kumar",
     role: "Chief Executive Officer",
     linkedin: "https://www.linkedin.com/in/christiankumar/",
   },
   {
+    initial: "H",
+    name: "Hudson Paul",
+    role: "Chief Operating Officer",
+    linkedin: "https://www.linkedin.com/in/hudsonpaul1/",
+  },
+  {
     initial: "J",
     name: "John Swaroop",
     role: "Chief Technology Officer",
     linkedin: "https://www.linkedin.com/in/john-swaroop-4389961b7/",
+  },
+  {
+    initial: "L",
+    name: "Luke Anglin",
+    role: "Chief Revenue Officer",
+    linkedin: "https://www.linkedin.com/in/lukeanglin/",
   },
 ];
 
